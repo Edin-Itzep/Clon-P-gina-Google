@@ -1,2 +1,2 @@
-# practica_html
-practica en html y css
+# PRÁCTICA HTML Y CSS
+## GitHub Pages: https://edin-itzep.github.io/Clon-P-gina-Google/
